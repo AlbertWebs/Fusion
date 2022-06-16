@@ -1,4 +1,4 @@
-/* Linoor - DIgital Agency HTML Template  */
+/* Fusion HR - DIgital Agency HTML Template  */
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
@@ -3227,10 +3227,14 @@ img.lazy-image.loaded {
           transform: translateY(100px);
   -webkit-transition-delay: 2500ms;
           transition-delay: 2500ms;
-  -webkit-transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+  -webkit-transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
 }
 
 .banner-section-four .btn-style-three {
@@ -3247,10 +3251,14 @@ img.lazy-image.loaded {
           transform: translateY(100px);
   -webkit-transition-delay: 2500ms;
           transition-delay: 2500ms;
-  -webkit-transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease;
-  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease, background 500ms ease, -webkit-transform 2000ms ease;
+  -webkit-transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease;
+  transition: transform 2000ms ease, opacity 2000ms ease, color 500ms ease,
+ background 500ms ease, -webkit-transform 2000ms ease;
 }
 
 .banner-section-four .btn-style-three:hover {
@@ -19268,8 +19276,8 @@ img.lazy-image.loaded {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    padding-top: 35px;
-    padding-bottom: 35px;
+    /* padding-top: 35px;
+    padding-bottom: 35px; */
   }
 }
 
