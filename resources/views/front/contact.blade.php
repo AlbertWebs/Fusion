@@ -3,7 +3,7 @@
 @section('content')
 <!-- Banner Section -->
 <section class="page-banner">
-    <div class="image-layer" style="background-image:url('{{asset('images/background/image-7.jpg')}});"></div>
+    <div class="image-layer" style="background-image:url('{{asset('theme/images/background/image-7.jpg')}});"></div>
     <div class="shape-1"></div>
     <div class="shape-2"></div>
     <div class="banner-inner">

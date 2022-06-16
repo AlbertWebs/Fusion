@@ -23968,3 +23968,11 @@ img.lazy-image.loaded {
           animation-duration: 1500ms;
 }
 /*# sourceMappingURL=style.css.map */
+@media (min-width: 992px) {
+    .testimonials-six__content {
+      font-size: 25px;
+    }
+    .testimonials-six__content br {
+      display: inherit;
+    }
+  }
