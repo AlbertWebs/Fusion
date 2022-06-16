@@ -166,7 +166,7 @@
                                             <li><a href="{{url('/')}}/services/slung">H.R documents </a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="#">Our Sectors</a>
+                                    <li class="dropdown"><a href="{{url('/')}}/our-sectors">Our Sectors</a>
 
                                     </li>
 

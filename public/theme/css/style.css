@@ -87,7 +87,7 @@
 :root {
   --thm-font: "Teko", sans-serif;
   --thm-b-font: "Rubik", sans-serif;
-  --thm-base: #ffaa17;
+  --thm-base: #dd2026;
   --thm-base-rgb: 255, 170, 23;
   --thm-black: #222429;
   --thm-text: #686a6f;
@@ -23979,3 +23979,10 @@ img.lazy-image.loaded {
 .m-b-10{
     margin-bottom: 20px;
 }
+
+.service-eight__title {
+    min-height:53px !important;
+    font-size:14px;
+}
+
+

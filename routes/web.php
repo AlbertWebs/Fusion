@@ -19,6 +19,8 @@ Route::get('/', [HomeController::class, 'index'])->name('homepage');
 Route::get('/find-candidates', [HomeController::class, 'index'])->name('homepage');
 
 Route::get('/about-us', [HomeController::class, 'about_us'])->name('about-us');
+Route::get('/our-sectors', [HomeController::class, 'our_sectors'])->name('our-sectors');
+
 Route::get('/contact-us', [HomeController::class, 'contact_us'])->name('contact-us');
 Route::get('/the-company', [HomeController::class, 'company'])->name('company');
 Route::get('/services', [HomeController::class, 'services'])->name('services');

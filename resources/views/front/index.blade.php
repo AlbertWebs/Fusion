@@ -33,20 +33,7 @@
     </div>
 </section><!-- /.slider-six -->
 
-<section class="call-to-section-four">
-    <div class="auto-container">
-        <h3 class="call-to-section-four__title">Looking to recruit?
-        </h3>
-        {{-- <br>
-        <p>
-            Trust Approach People recruiters to find the perfect candidate. An exclusive consultant supports you in all your local and international recruitment projects.
-        </p> --}}
-        <!-- /.call-to-section-four__title -->
-        <a href="#"
-            target="_blank" class="thm-btn__eight call-to-section-four__btn">Discover our expertise</a>
-        <!-- /.thm-btn__eight -->
-    </div><!-- /.auto-container -->
-</section><!-- /.call-to-section-four -->
+
 
 <section class="about-eleven">
     <div class="auto-container">
@@ -83,107 +70,167 @@
 <section class="service-eight">
     <div class="auto-container">
         <div class="sec-title-eight text-center">
-            <p class="sec-title-eight__text">Our Services List</p><!-- /.sec-title-eight__text -->
-            <h2 class="sec-title-eight__title">Our areas of expertise</h2><!-- /.sec-title-eight__title -->
+
+            <h2 class="sec-title-eight__title">Expertise</h2><!-- /.sec-title-eight__title -->
         </div><!-- /.sec-title-eight -->
         <div class="row">
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
-                            <a href="#">Civil/Architecture
-                                </a><br>
+                            <a href="#">Civil & Architecture
+                                </a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="flaticon-vector-4"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="digital-marketing.html">Electrical</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="flaticon-business"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="#">Mechanical</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="flaticon-global"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="#">Security</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="flaticon-global"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="#">Welding</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="fas fa-wrench"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="#">Heavy Equipments</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="fas fa-cog"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="#">Administration</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="fas fa-user"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
                             <a href="#">Hotel & Hospitality</a>
                         </h3><!-- /.service-eight__title -->
-                        <div class="service-eight__icon">
-                            <i class="fa fa-bed"></i>
-                        </div><!-- /.service-eight__icon -->
+
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
+            {{--  --}}
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Cleaning & Housekeeping</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Agriculture & Plantation</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Denting & Painting</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Supermarkets and Hypermarkets</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+
+            {{--  --}}
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Power Gas and Water</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Medical Paramedical</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Manufacturing & Production</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+                <div class="service-eight__card">
+                    <div class="service-eight__card__inner">
+                        <h3 class="service-eight__title">
+                            <a href="#">Garments & Textiles</a>
+                        </h3><!-- /.service-eight__title -->
+                    </div><!-- /.service-eight__card__inner -->
+                </div><!-- /.service-eight__card -->
+            </div><!-- /.col-md-6 col-lg-3 -->
+            {{--  --}}
             {{--  --}}
         </div><!-- /.row -->
 
@@ -214,11 +261,13 @@
         <section class="service-eight">
             <div class="auto-container">
                 <div class="sec-title-eight text-center">
-                    <p class="sec-title-eight__text">Our Services List</p><!-- /.sec-title-eight__text -->
+                    <p class="sec-title-eight__text">Empowering for a better tomorrow</p><!-- /.sec-title-eight__text -->
                     <h2 class="sec-title-eight__title">Our Services</h2><!-- /.sec-title-eight__title -->
+                    <h5 class="theme-text" style="font-size:16px; max-width:500px; margin:0 auto;">Your most valuable resources are your employees. Fusion HR Solutions is your best choice in recruiting, training, and retaining your employees.
+                        Fusion HR Solutions offers the following services detailed below at an friendly cost. We offer the following services <span class="dot">.</span></h5>
                 </div><!-- /.sec-title-eight -->
                 <div class="row">
-                    <div class="col-md-6 col-lg-4 wow fadeInLeft m-b-10" data-wow-duration="1500ms">
+                    <div class="col-md-6 col-lg-3 wow fadeInLeft m-b-10" data-wow-duration="1500ms">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="project-eight__item">
@@ -235,7 +284,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
+                    <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="project-eight__item">
@@ -251,7 +300,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
+                    <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="project-eight__item">
@@ -267,7 +316,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
+                    <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="project-eight__item">
@@ -283,7 +332,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
+                    <div style="margin:0 auto;" class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="project-eight__item">
@@ -299,7 +348,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 wow fadeInLeft" data-wow-duration="1500ms">
+                    <div style="margin:0 auto;" class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="project-eight__item">

@@ -18,4 +18,10 @@ class HomeController extends Controller
         return view('front.about-us');
     }
 
+    public function our_sectors(){
+        return view('front.our-sectors');
+    }
+
+
+
 }
