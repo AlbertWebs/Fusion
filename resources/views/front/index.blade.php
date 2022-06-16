@@ -68,13 +68,13 @@
 </section><!-- /.about-eleven -->
 
 <section class="service-eight">
-    <div class="auto-container">
+    <div class="auto-containers" style="margin:10px;">
         <div class="sec-title-eight text-center">
 
-            <h2 class="sec-title-eight__title">Expertise</h2><!-- /.sec-title-eight__title -->
+            <h2 class="sec-title-eight__title">Our Areas Of Expertise</h2><!-- /.sec-title-eight__title -->
         </div><!-- /.sec-title-eight -->
         <div class="row">
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-sm-6 col-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -85,7 +85,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -95,7 +95,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -105,7 +105,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -115,7 +115,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -125,7 +125,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -135,7 +135,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -145,7 +145,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -156,7 +156,7 @@
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
             {{--  --}}
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -165,7 +165,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -174,7 +174,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -183,7 +183,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -194,7 +194,7 @@
             </div><!-- /.col-md-6 col-lg-3 -->
 
             {{--  --}}
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -203,7 +203,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -212,7 +212,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
@@ -221,7 +221,7 @@
                     </div><!-- /.service-eight__card__inner -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-3 -->
-            <div class="col-md-6 col-lg-2 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
+            <div class="col-md-6 col-lg-2 col-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">

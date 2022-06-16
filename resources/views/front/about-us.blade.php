@@ -47,7 +47,136 @@
     </div><!-- /.auto-container -->
 </section>
 
+<section class="fluid-section">
+    <div class="outer-container">
+        <div class="row clearfix">
+            <div class="column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner">
+                    <div class="image-layer" style="background-image: url({{asset('theme/images/update-01-10-2021/slider/slider-eight-1-1.jpg')}});">
+                    </div>
+                    <div class="content-box">
+                        <h3>Trust Fusion HR recruiters to find the perfect candidate. </h3>
+                        <div class="link-box">
+                            <a class="theme-btn btn-style-one" href="{{url('/')}}/find-candidates">
+                                <i class="btn-curve"></i>
+                                <span class="btn-title">Discover More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner">
+                    <div class="image-layer" style="background-image: url(images/background/image-5.jpg);">
+                    </div>
+                    <div class="content-box">
+                        <h3>We provide our customers with exceptional service</h3>
+                        <div class="link-box">
+                            <a class="theme-btn btn-style-two" href="{{url('/')}}/our-services">
+                                <i class="btn-curve"></i>
+                                <span class="btn-title">Discover More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{-- Mision Vision and Core Values --}}
 
+<section class="agency-section">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!--Left Column-->
+
+            <!--Right Column-->
+            <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                <div class="inner">
+
+                    <div class="sec-title centered">
+                        <h5>Our Mission<span class="dot">.</span></h5>
+                    </div>
+
+                    <div class="text theme-black">To develop distinctive, client centred, Human Resources concepts and programs that support business
+                        goals and provide a unique, cost effective, one stop source for all Human Resources needs”</div>
+
+
+
+                    <div class="sec-title centered">
+                        <h5>Our Vision<span class="dot">.</span></h5>
+                    </div>
+
+                    <div class="text theme-black">To be the premier provider of integrated Human Resources solutions</div>
+
+
+                </div>
+            </div>
+            <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                <div class="inner">
+
+                    <div class="sec-title centered">
+                        <h5>Our Core Values<span class="dot">.</span></h5>
+                    </div>
+
+                    {{-- <h6 class="val-h6">Fair Play</h6>
+                    <div class=" theme-black">Fusion HR Solutions practices Respect, Integrity, Openness and Honesty</div>
+
+                    <h6 class="val-h6">Energy</h6>
+                    <div class="theme-black">Fusion HR Solutions delivers with Enthusiasm, Passion and with a Smile</div>
+
+                    <h6 class="val-h6">Partnership</h6>
+                    <div class="theme-black">Fusion HR Solutions works in collaboration with you. Your Success is Our Success!</div>
+
+                    <h6 class="val-h6">Results</h6>
+                    <div class="theme-black">Fusion HR Solutions makes a difference!</div> --}}
+                    <ul class="accordion-box clearfix">
+                        <!--Block-->
+                        <li class="accordion block">
+                            <div class="acc-btn"><span class="count">1.</span> Fair Play</div>
+                            <div class="acc-content current" style="display: none;">
+                                <div class="content">
+                                    <div class="text">Fusion HR Solutions practices Respect, Integrity, Openness and Honesty</div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <!--Block-->
+                        <li class="accordion block">
+                            <div class="acc-btn"><span class="count">2.</span> Energy</div>
+                            <div class="acc-content" style="display: none;">
+                                <div class="content">
+                                    <div class="text">Fusion HR Solutions delivers with Enthusiasm, Passion and with a Smile</div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <!--Block-->
+                        <li class="accordion block">
+                            <div class="acc-btn"><span class="count">3.</span> Partnership</div>
+                            <div class="acc-content">
+                                <div class="content">
+                                    <div class="text">Fusion HR Solutions works in collaboration with you. Your Success is Our Success!</div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <!--Block-->
+                        <li class="accordion block">
+                            <div class="acc-btn"><span class="count">4.</span> Results</div>
+                            <div class="acc-content">
+                                <div class="content">
+                                    <div class="text">Fusion HR Solutions makes a difference!</div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="call-to-section call-to-section__no-margin">
     <div class="inner clearfix">
@@ -56,7 +185,7 @@
         <div class="auto-container clearfix">
             <h2>Looking to Engage Us? </h2>
             <div class="link-box">
-                <a class="theme-btn btn-style-two" href="about.html">
+                <a class="theme-btn btn-style-two" href="{{url('/')}}/contact-us">
                     <i class="btn-curve"></i>
                     <span class="btn-title">Contact Today</span>
                 </a>
