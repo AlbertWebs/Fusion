@@ -16,6 +16,8 @@ use App\Http\Controllers\HomeController;
 
 
 Route::get('/', [HomeController::class, 'index'])->name('homepage');
+Route::get('/find-candidates', [HomeController::class, 'index'])->name('homepage');
+
 Route::get('/about-us', [HomeController::class, 'about_us'])->name('about-us');
 Route::get('/contact-us', [HomeController::class, 'contact_us'])->name('contact-us');
 Route::get('/the-company', [HomeController::class, 'company'])->name('company');

@@ -175,6 +175,9 @@
                                         <a href="{{url('/')}}/contact-us">Contact</a>
 
                                     </li>
+                                    <li class="dropdown">
+                                        <a download href="{{url('/')}}/uploads/profile/Fusion-Company-Profile.pdf"><span class="fa fa-download"></span> &nbsp; Company Profile</a>
+                                    </li>
                                 </ul>
 							</div>
 						</nav>
@@ -204,47 +207,7 @@
 
         @yield('content')
 
-		<footer class="footer-eight">
-			<div class="auto-container">
-				<div class="row">
-					<div class="col-md-6 col-lg-3">
-						<div class="footer-eight__widget">
-							<h3 class="footer-eight__title">About</h3><!-- /.footer-eight__title -->
-							<p>Fusion HR Solutions is a human resources management practice that provides a comprehensive range of
-                                human resources solutions with a business focus.</p>
-						</div><!-- /.footer-eight__widget -->
-					</div><!-- /.col-md-6 col-lg-3 -->
-					<div class="col-md-6 col-lg-3">
-						<div class="footer-eight__widget">
-							<h3 class="footer-eight__title">Address</h3><!-- /.footer-eight__title -->
-							<p>AmBank House,15th Floor-University Way <br>
-								P.O Box 44563-00100 <br> Nairobi-Kenya
-								</p>
-						</div><!-- /.footer-eight__widget -->
-					</div><!-- /.col-md-6 col-lg-3 -->
-					<div class="col-md-6 col-lg-3">
-						<div class="footer-eight__widget">
-							<h3 class="footer-eight__title">Contact</h3><!-- /.footer-eight__title -->
-							<p><a href="mailto:info@fusionhrsolution.com">info@fusionhrsolution.com</a> <br>
-								<a href="tel:+254111027711">+254 11 102 7711</a><br><a href="tel:+254111027722">+254 11 102 7722</a>
-                                <br><a href="tel:+254111027733">+254 11 102 7733</a></p>
-						</div><!-- /.footer-eight__widget -->
-					</div><!-- /.col-md-6 col-lg-3 -->
-					<div class="col-md-6 col-lg-3">
-						<div class="footer-eight__widget">
-							<h3 class="footer-eight__title">Follow</h3><!-- /.footer-eight__title -->
-							<div class="footer-eight__social">
-                                <a href="#" class="fab fa-linkedin"></a>
-								<a href="#" class="fab fa-twitter"></a>
-								<a href="#" class="fab fa-facebook"></a>
-								<a href="#" class="fab fa-instagram"></a>
-                                <a href="#" class="fab fa-youtube"></a>
-							</div><!-- /.footer-eight__social -->
-						</div><!-- /.footer-eight__widget -->
-					</div><!-- /.col-md-6 col-lg-3 -->
-				</div><!-- /.row -->
-			</div><!-- /.auto-container -->
-		</footer><!-- /.footer-eight -->
+
 		<div class="footer-eight__copyright">
 			<div class="auto-container">
 				<a href="{{url('/')}}">
