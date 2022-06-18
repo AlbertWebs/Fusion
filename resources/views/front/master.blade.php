@@ -52,7 +52,7 @@
 
 		<!-- Preloader -->
 		<div class="preloader">
-			<div class="icon" style="background-image: url('{{asset('images/update-01-10-2021/preloader-8.png')}}');"></div>
+			<div class="icon" style="background-image: url('{{asset('theme/images/update-01-10-2021/preloader-8.png')}}');"></div>
 		</div>
 
 
@@ -250,9 +250,7 @@
 	<script src="{{asset('theme/js/swiper.min.js')}}"></script>
 	<script src="{{asset('theme/js/custom-script.js')}}"></script>
 
-	<script src="{{asset('theme/js/lang.js')}}"></script>
-	<script src="../../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
-	<script src="{{asset('theme/js/color-switcher.js')}}"></script>
+
 </body>
 
 
