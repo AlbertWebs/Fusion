@@ -23998,3 +23998,9 @@ img.lazy-image.loaded {
     list-style-position: inside;
 }
 
+.swiper-slide{
+    border-radius:10px;
+}
+.project-eight__item img{
+    border-radius:10px;
+}
