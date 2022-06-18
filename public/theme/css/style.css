@@ -22068,7 +22068,7 @@ img.lazy-image.loaded {
 @media (min-width: 1200px) {
   .about-ten__content {
     padding-left: 100px;
-    padding-top: 116px;
+    /* padding-top: 116px; */
   }
 }
 
@@ -22106,7 +22106,7 @@ img.lazy-image.loaded {
 
 @media (min-width: 576px) {
   .about-ten__box {
-    padding-left: 70px;
+    padding-left: 10px;
   }
 }
 
@@ -23991,4 +23991,10 @@ img.lazy-image.loaded {
      font-size: 20px;
 }
 
+.about-ten__box__text{
+    color:#000000;
+    display: list-item;          /* This has to be "list-item"                                               */
+    list-style-type: square;     /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+    list-style-position: inside;
+}
 

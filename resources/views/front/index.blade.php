@@ -250,27 +250,34 @@
 
                     <div class="about-ten__content">
                         <div class="sec-title-eight text-start">
-                            <p class="sec-title-eight__text">Why Choose Us</p><!-- /.sec-title-eight__text -->
-                            <h2 class="sec-title-eight__title">The Largest Business
-                                Experts</h2><!-- /.sec-title-eight__title -->
+                            <p class="sec-title-eight__text" style="color:#dd2026">Why Choose Us</p><!-- /.sec-title-eight__text -->
+
                         </div><!-- /.sec-title-eight -->
-                        <p class="about-ten__text" style="color:#000000">Here at Fusion HR Solutions we guarantee a full outsourcing service
+                        <p class="about-ten__text" style="color:#182e65; line-height:1.5rem">Here at Fusion HR Solutions we guarantee a full outsourcing service
                             for the entire recruitment process as well as partial sup- port in recruitment
                             and selection of candidates for employment</p><!-- /.about-ten__text -->
-                        <div class="about-ten__box">
-                            <h3 class="about-ten__box__title">Customer Experience</h3>
-                            <!-- /.about-ten__box__title -->
-                            <p class="about-ten__box__text">Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Dolor sit amet, adipsicing elit.</p>
+
+                            <p class="about-ten__box__text">Our specialization in public sector and non-profit executive search on a
+                                nationwide basis.</p>
+                            <p class="about-ten__box__text">Our ability to capitalize on an established network of the most respected
+                                executives in the nation</p>
+                            <p class="about-ten__box__text">Our track record of success in placing senior level executives in particularly
+                                sensitive and highly responsible/accountable positions</p>
+                            <p class="about-ten__box__text">The quality of our work--indicative of this is the fact that most of our clients
+                                have utilized our services on more than one occasion</p>
+                            <p class="about-ten__box__text">Our team is skilled in the latest techniques to identify prospec- tive candidates
+                                and, as a search progress, to assist in gathering background information
+                                on leading candidates</p>
+                            <p class="about-ten__box__text">Our proactive recruitment of candidates who may not be seeking new
+                                    employment and would not normally respond to routine ad- vertising, or
+                                    who may come from non-traditional sources</p>
+                                    <br><br>
+                                    <a class="theme-btn btn-style-two" href="{{url('/')}}/about-us">
+                                            <i class="btn-curve"></i>
+                                            <span class="btn-title">Discover More</span>
+                                        </a>
                             <!-- /.about-ten__box__text -->
-                        </div><!-- /.about-ten__box -->
-                        <div class="about-ten__box">
-                            <h3 class="about-ten__box__title">Customer Experience</h3>
-                            <!-- /.about-ten__box__title -->
-                            <p class="about-ten__box__text">Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Dolor sit amet, adipsicing elit.</p>
-                            <!-- /.about-ten__box__text -->
-                        </div><!-- /.about-ten__box -->
+                        {{-- </div><!-- /.about-ten__box --> --}}
                     </div><!-- /.about-ten__content -->
                 </div><!-- /.my-auto -->
             </div><!-- /.col-lg-7 -->
@@ -278,120 +285,114 @@
     </div><!-- /.auto-container -->
 </section><!-- /.about-ten -->
 
+<section class="project-eight service-eight">
+    <div class="auto-container">
+        <div class="sec-title-eight text-center">
+            <p class="sec-title-eight__text">Empowering for a better tomorrow</p><!-- /.sec-title-eight__text -->
+            <h2 class="sec-title-eight__title">Our Services</h2><!-- /.sec-title-eight__title -->
+            <h5 class="theme-text" style="font-size:16px; max-width:500px; margin:0 auto;">Your most valuable resources are your employees. Fusion HR Solutions is your best choice in recruiting, training, and retaining your employees.
+                Fusion HR Solutions offers the following services detailed below at an friendly cost. We offer the following services <span class="dot">.</span></h5>
+        </div><!-- /.sec-title-eight -->
+        <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 30, "slidesPerView": 2, "autoplay": { "delay": 5000 }, "breakpoints": {
+            "0": {
+                "slidesPerView": 1
+            },
+            "375": {
+                "slidesPerView": 1
+            },
+            "480": {
+                "slidesPerView": 2
+            },
+            "767": {
+                "slidesPerView": 3
+            },
+            "1199": {
+                "slidesPerView": 4
+            }
+        }}'>
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">Recruitment
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">Training & skills development
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">Benefits and remuneration
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">Audits
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
+
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">Labour and employee relations
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">Regulatory Compliance
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
 
 
-
-        <section class="service-eight">
-            <div class="auto-container">
-                <div class="sec-title-eight text-center">
-                    <p class="sec-title-eight__text">Empowering for a better tomorrow</p><!-- /.sec-title-eight__text -->
-                    <h2 class="sec-title-eight__title">Our Services</h2><!-- /.sec-title-eight__title -->
-                    <h5 class="theme-text" style="font-size:16px; max-width:500px; margin:0 auto;">Your most valuable resources are your employees. Fusion HR Solutions is your best choice in recruiting, training, and retaining your employees.
-                        Fusion HR Solutions offers the following services detailed below at an friendly cost. We offer the following services <span class="dot">.</span></h5>
-                </div><!-- /.sec-title-eight -->
-                <div class="row">
-                    <div class="col-md-6 col-lg-3 wow fadeInLeft m-b-10" data-wow-duration="1500ms">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="project-eight__item">
-                                    <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                                    <div class="project-eight__content">
-                                        <a class="project-eight__link" href="#"><i
-                                                class="flaticon-right-arrow"></i></a>
-                                        <h3 class="project-eight__title"><a href="#">Recruitment
-                                                </a>
-                                        </h3><!-- /.project-eight__title -->
-                                    </div><!-- /.project-eight__content -->
-                                </div><!-- /.project-eight__item -->
-                            </div><!-- /.swiper-slide -->
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="project-eight__item">
-                                    <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                                    <div class="project-eight__content">
-                                        <a class="project-eight__link" href="#"><i
-                                                class="flaticon-right-arrow"></i></a>
-                                        <h3 class="project-eight__title"><a href="#">Training & skills development</a>
-                                        </h3><!-- /.project-eight__title -->
-                                    </div><!-- /.project-eight__content -->
-                                </div><!-- /.project-eight__item -->
-                            </div><!-- /.swiper-slide -->
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="project-eight__item">
-                                    <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                                    <div class="project-eight__content">
-                                        <a class="project-eight__link" href="#"><i
-                                                class="flaticon-right-arrow"></i></a>
-                                        <h3 class="project-eight__title"><a href="#">Benefits and remuneration</a>
-                                        </h3><!-- /.project-eight__title -->
-                                    </div><!-- /.project-eight__content -->
-                                </div><!-- /.project-eight__item -->
-                            </div><!-- /.swiper-slide -->
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="project-eight__item">
-                                    <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                                    <div class="project-eight__content">
-                                        <a class="project-eight__link" href="#"><i
-                                                class="flaticon-right-arrow"></i></a>
-                                        <h3 class="project-eight__title"><a href="#">Audits</a>
-                                        </h3><!-- /.project-eight__title -->
-                                    </div><!-- /.project-eight__content -->
-                                </div><!-- /.project-eight__item -->
-                            </div><!-- /.swiper-slide -->
-                        </div>
-                    </div>
-
-                    <div style="margin:0 auto;" class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="project-eight__item">
-                                    <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                                    <div class="project-eight__content">
-                                        <a class="project-eight__link" href="#"><i
-                                                class="flaticon-right-arrow"></i></a>
-                                        <h3 class="project-eight__title"><a href="#">Labour and employee relations</a>
-                                        </h3><!-- /.project-eight__title -->
-                                    </div><!-- /.project-eight__content -->
-                                </div><!-- /.project-eight__item -->
-                            </div><!-- /.swiper-slide -->
-                        </div>
-                    </div>
-
-                    <div style="margin:0 auto;" class="col-md-6 col-lg-3 wow fadeInLeft" data-wow-duration="1500ms">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="project-eight__item">
-                                    <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                                    <div class="project-eight__content">
-                                        <a class="project-eight__link" href="#"><i
-                                                class="flaticon-right-arrow"></i></a>
-                                        <h3 class="project-eight__title"><a href="#">Regulatory Compliance</a>
-                                        </h3><!-- /.project-eight__title -->
-                                    </div><!-- /.project-eight__content -->
-                                </div><!-- /.project-eight__item -->
-                            </div><!-- /.swiper-slide -->
-                        </div>
-                    </div>
-
-
-
-                </div>
             </div>
-        </section>
+        </div>
+    </div><!-- /.auto-container -->
+</section><!-- /.project-seven -->
+
+
+
 
 
 
