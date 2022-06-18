@@ -12,6 +12,7 @@
 		href="../../fonts.googleapis.com/css23784.css?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;family=Shadows+Into+Light&amp;display=swap"
 		rel="stylesheet">
 
+    @include('favicon')
 	<!-- reey font -->
 	<link rel="stylesheet" href="{{asset('theme/css/reey-font.css')}}">
 	<link href="{{asset('theme/css/bootstrap.min.css')}}" rel="stylesheet">
@@ -194,7 +195,7 @@
 								</span><!-- /.mainmenu-eight__call__icon -->
 								<span class="mainmenu-eight__call__text">
 									Have any questions? <br>
-									Free: <strong>+254 11 102 7711</strong>
+									Call: <strong>+254 11 102 7711</strong>
 								</span><!-- /.mainmenu-eight__call__text -->
 							</a>
 

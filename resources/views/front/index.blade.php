@@ -248,7 +248,30 @@
             <div class="col-lg-7 d-flex">
                 <div class="my-auto">
 
-
+                    <div class="about-ten__content">
+                        <div class="sec-title-eight text-start">
+                            <p class="sec-title-eight__text">Why Choose Us</p><!-- /.sec-title-eight__text -->
+                            <h2 class="sec-title-eight__title">The Largest Business
+                                Experts</h2><!-- /.sec-title-eight__title -->
+                        </div><!-- /.sec-title-eight -->
+                        <p class="about-ten__text" style="color:#000000">Here at Fusion HR Solutions we guarantee a full outsourcing service
+                            for the entire recruitment process as well as partial sup- port in recruitment
+                            and selection of candidates for employment</p><!-- /.about-ten__text -->
+                        <div class="about-ten__box">
+                            <h3 class="about-ten__box__title">Customer Experience</h3>
+                            <!-- /.about-ten__box__title -->
+                            <p class="about-ten__box__text">Lorem Ipsum is simply dummy text of the printing and
+                                typesetting industry. Dolor sit amet, adipsicing elit.</p>
+                            <!-- /.about-ten__box__text -->
+                        </div><!-- /.about-ten__box -->
+                        <div class="about-ten__box">
+                            <h3 class="about-ten__box__title">Customer Experience</h3>
+                            <!-- /.about-ten__box__title -->
+                            <p class="about-ten__box__text">Lorem Ipsum is simply dummy text of the printing and
+                                typesetting industry. Dolor sit amet, adipsicing elit.</p>
+                            <!-- /.about-ten__box__text -->
+                        </div><!-- /.about-ten__box -->
+                    </div><!-- /.about-ten__content -->
                 </div><!-- /.my-auto -->
             </div><!-- /.col-lg-7 -->
         </div><!-- /.row -->
