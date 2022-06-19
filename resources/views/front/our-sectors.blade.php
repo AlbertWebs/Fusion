@@ -253,11 +253,8 @@
                             <p class="about-ten__box__text sectors">Check out Cashiers</p>
                             <p class="about-ten__box__text sectors">Trolley Boys</p>
                             <p class="about-ten__box__text sectors">Shelves Rack Organizers</p>
-                            <p class="about-ten__box__text sectors">Store Keepers</p>
-                            <p class="about-ten__box__text sectors">Cleaners</p>
-                            <p class="about-ten__box__text sectors">Loading/Unloading Helper</p>
-                            <p class="about-ten__box__text sectors">Merchandiser</p>
-
+                            <p class="about-ten__box__text sectors">Store Keepers & Merchandisers</p>
+                            <p class="about-ten__box__text sectors">Cleaners, Loading/Unloading Helper</p>
                         </div>
                         <div class="service-eight__icon">
                             <i class="fa fa-shopping-cart"></i>
