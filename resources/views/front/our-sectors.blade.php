@@ -135,11 +135,7 @@
                             <p class="about-ten__box__text sectors">Heavy Drivers - (Trailor/Drump/Truck)</p>
                             <p class="about-ten__box__text sectors">Light Drivers - (Bus/Van/Car/Light Vehichles)</p>
                             <p class="about-ten__box__text sectors">Mechanics - (Heavy/Light Equipments Under Chasis)</p>
-                            <p class="about-ten__box__text sectors">Tyreman</p>
-                            <p class="about-ten__box__text sectors">Denters</p>
-                            <p class="about-ten__box__text sectors">Painters</p>
-                            <p class="about-ten__box__text sectors">Moulders</p>
-                            <p class="about-ten__box__text sectors">Helpers</p>
+                            <p class="about-ten__box__text sectors">Tyreman ,Denters , Painters , Moulders and Helpers</p>
                         </div>
                         <div class="service-eight__icon">
                             <i class="fas fa-cog"></i>
