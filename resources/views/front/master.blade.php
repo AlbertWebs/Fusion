@@ -146,9 +146,7 @@
 						<nav class="main-menu navbar-expand-md navbar-light">
 							<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-                                    <li class="dropdown"><a href="{{url('/')}}">Home</a>
 
-                                    </li>
                                     <li class="dropdown">
                                         <a href="{{url('/')}}/about-us">About Us</a>
 
