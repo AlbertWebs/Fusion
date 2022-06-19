@@ -236,21 +236,7 @@
     </div>
 </section>
 
-<section class="call-to-section call-to-section__no-margin">
-    <div class="inner clearfix">
-        <div class="shape-1 wow slideInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: slideInRight;"></div>
-        <div class="shape-2 wow fadeInDown animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInDown;"></div>
-        <div class="auto-container clearfix">
-            <h2>Looking to Engage Us? </h2>
-            <div class="link-box">
-                <a class="theme-btn btn-style-two" href="{{url('/')}}/contact-us">
-                    <i class="btn-curve"></i>
-                    <span class="btn-title">Contact Today</span>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+
 @endsection
 
 
