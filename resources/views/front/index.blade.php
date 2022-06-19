@@ -313,7 +313,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/Recruitment.jpg')}}" alt="">
                         <div class="project-eight__content">
                             <a class="project-eight__link" href="#"><i
                                     class="flaticon-right-arrow"></i></a>
@@ -325,7 +325,7 @@
                 </div><!-- /.swiper-slide -->
                 <div class="swiper-slide">
                     <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/Training.jpg')}}" alt="">
                         <div class="project-eight__content">
                             <a class="project-eight__link" href="#"><i
                                     class="flaticon-right-arrow"></i></a>
@@ -349,7 +349,7 @@
                 </div><!-- /.swiper-slide -->
                 <div class="swiper-slide">
                     <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/audits.jpg')}}" alt="">
                         <div class="project-eight__content">
                             <a class="project-eight__link" href="#"><i
                                     class="flaticon-right-arrow"></i></a>
@@ -362,7 +362,7 @@
 
                 <div class="swiper-slide">
                     <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/labour.jpg')}}" alt="">
                         <div class="project-eight__content">
                             <a class="project-eight__link" href="#"><i
                                     class="flaticon-right-arrow"></i></a>
@@ -374,11 +374,23 @@
                 </div><!-- /.swiper-slide -->
                 <div class="swiper-slide">
                     <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-2.jpg')}}" alt="">
                         <div class="project-eight__content">
                             <a class="project-eight__link" href="#"><i
                                     class="flaticon-right-arrow"></i></a>
                             <h3 class="project-eight__title"><a href="#">Regulatory Compliance
+                                    </a>
+                            </h3><!-- /.project-eight__title -->
+                        </div><!-- /.project-eight__content -->
+                    </div><!-- /.project-eight__item -->
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <div class="project-eight__item">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/Hr.jpg')}}" alt="">
+                        <div class="project-eight__content">
+                            <a class="project-eight__link" href="#"><i
+                                    class="flaticon-right-arrow"></i></a>
+                            <h3 class="project-eight__title"><a href="#">HR Documents
                                     </a>
                             </h3><!-- /.project-eight__title -->
                         </div><!-- /.project-eight__content -->

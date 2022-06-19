@@ -211,7 +211,7 @@
 				<a href="{{url('/')}}">
 					<img src="{{asset('theme/images/logo/Fusionlogopng.png')}}" width="201" alt="">
 				</a>
-				<p>© Copyright {{date('Y')}} by Fusion HR Solutions | All Rights Reserved</p><!-- /.text-center -->
+				<p>© Copyright {{date('Y')}} by Fusion HR Solutions | All Rights Reserved | Powered By Vartech East Africa Limited</p><!-- /.text-center -->
 			</div><!-- /.auto-container -->
 		</div><!-- /.footer-eight__copyright -->
 

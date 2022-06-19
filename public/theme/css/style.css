@@ -22980,7 +22980,7 @@ img.lazy-image.loaded {
   content: '';
   width: 15px;
   height: 8px;
-  background-image: url(../images/update-01-10-2021/shapes/menu-arrow.png);
+  /* background-image: url(../images/update-01-10-2021/shapes/menu-arrow.png); */
   background-repeat: no-repeat;
   background-position: top center;
   position: absolute;
@@ -24000,7 +24000,13 @@ img.lazy-image.loaded {
 
 .swiper-slide{
     border-radius:10px;
+    max-height:450px !important;
 }
 .project-eight__item img{
+    border-radius:10px;
+    min-height:450px !important;
+}
+
+.project-eight__content{
     border-radius:10px;
 }
