@@ -22249,7 +22249,7 @@ img.lazy-image.loaded {
   line-height: 1.5;
   color: var(--thm-black);
   margin: 0;
-  max-width: 101px;
+  max-width: 301px;
   font-weight: bold;
 }
 
@@ -24151,5 +24151,12 @@ img.lazy-image.loaded {
   color: var(--thm-base);
 }
 
-/***
 
+
+.sectors{
+    line-height: 1.289;
+}
+
+.service-eight__card .service-eight__card__inner{
+   min-height:444px;
+}
