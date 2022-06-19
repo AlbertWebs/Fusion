@@ -48,12 +48,12 @@
 </section>
 
 {{--  --}}
-<section class="about-ten why-bg" style="padding:50px;">
-
+<section class="about-ten who-bg" style="padding:50px;">
+    <div class="image-layer" style="background-image:url('{{asset('uploads/banners/pexels-sora-shimazaki-5673502.jpg')}}');"></div>
     <div class="auto-container">
         <div class="row">
 
-            <div class="col-lg-12 d-flex">
+            <div class="col-lg-12 d-flex" style="z-index: 9">
                 <div class="my-auto">
 
                     <div class="about-ten__content">
