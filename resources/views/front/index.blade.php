@@ -269,9 +269,7 @@
                             <p class="about-ten__box__text">Our team is skilled in the latest techniques to identify prospec- tive candidates
                                 and, as a search progress, to assist in gathering background information
                                 on leading candidates</p>
-                            <p class="about-ten__box__text">Our proactive recruitment of candidates who may not be seeking new
-                                    employment and would not normally respond to routine ad- vertising, or
-                                    who may come from non-traditional sources</p>
+
                                     <br><br>
                                     <a class="theme-btn btn-style-two" href="{{url('/')}}/about-us">
                                             <i class="btn-curve"></i>

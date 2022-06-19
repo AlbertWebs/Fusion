@@ -47,6 +47,64 @@
     </div><!-- /.auto-container -->
 </section>
 
+{{--  --}}
+<section class="about-ten why-bg" style="padding:50px;">
+
+    <div class="auto-container">
+        <div class="row">
+
+            <div class="col-lg-12 d-flex">
+                <div class="my-auto">
+
+                    <div class="about-ten__content">
+                        <div class="sec-title-eight text-start">
+                            <p class="sec-title-eight__text" style="color:#dd2026">Why Choose Us</p><!-- /.sec-title-eight__text -->
+
+                        </div><!-- /.sec-title-eight -->
+                        <p class="about-ten__text" style="color:#182e65; line-height:1.8rem">Here at Fusion HR Solutions we guarantee a full outsourcing service
+                            for the entire recruitment process as well as partial sup- port in recruitment
+                            and selection of candidates for employment</p><!-- /.about-ten__text -->
+
+                            <p class="about-ten__box__text">Our specialization in public sector and non-profit executive search on a
+                                nationwide basis.</p>
+                            <p class="about-ten__box__text">Our ability to capitalize on an established network of the most respected
+                                executives in the nation</p>
+                            <p class="about-ten__box__text">Our track record of success in placing senior level executives in particularly
+                                sensitive and highly responsible/accountable positions</p>
+                            <p class="about-ten__box__text">The quality of our work--indicative of this is the fact that most of our clients
+                                have utilized our services on more than one occasion</p>
+                            <p class="about-ten__box__text">Our team is skilled in the latest techniques to identify prospec- tive candidates
+                                and, as a search progress, to assist in gathering background information
+                                on leading candidates</p>
+                            <p class="about-ten__box__text">Our experience in recruiting and placing candidates from private sector
+                                companies into public sector organizations.</p>
+                                    {{--  --}}
+                            <p class="about-ten__box__text">Our proven ability to identify and recommend qualified female and
+                                minority candidates</p>
+                            <p class="about-ten__box__text">Our reputation among clients and candidates for communication (e.g.,
+                                acknowledgment of resumes, regular reports to the client, face-to-face
+                                interviews with candidates)</p>
+                            <p class="about-ten__box__text">The thoroughness of our documented reference and background checks.
+                                We do not merely ask for “five work related references.” Rather, we request
+                                very specific references from candidates and, where feasible, gather newspaper
+                                articles via the Internet</p>
+
+                                    {{--  --}}
+                                    <br><br>
+                                    <a class="theme-btn btn-style-two" href="{{url('/')}}/contact-us">
+                                            <i class="btn-curve"></i>
+                                            <span class="btn-title">Contact Us</span>
+                                        </a>
+                            <!-- /.about-ten__box__text -->
+                        {{-- </div><!-- /.about-ten__box --> --}}
+                    </div><!-- /.about-ten__content -->
+                </div><!-- /.my-auto -->
+            </div><!-- /.col-lg-7 -->
+        </div><!-- /.row -->
+    </div><!-- /.auto-container -->
+</section><!-- /.about-ten -->
+{{--  --}}
+
 <section class="fluid-section">
     <div class="outer-container">
         <div class="row clearfix">
