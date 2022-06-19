@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use DB;
 
 class HomeController extends Controller
 {
@@ -20,6 +21,11 @@ class HomeController extends Controller
 
     public function our_sectors(){
         return view('front.our-sectors');
+    }
+
+    public function service($slung){
+        $Services = DB::table('services')->where('slung',$slung)->get();
+        return view('front.service', compact('Services'));
     }
 
 

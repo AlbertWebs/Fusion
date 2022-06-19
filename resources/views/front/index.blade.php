@@ -242,7 +242,7 @@
         <div class="row">
             <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="about-ten__image">
-                    <img src="{{asset('theme/images/update-01-10-2021/slider/slider-eight-1-1.jpg')}}" alt="">
+                    <img src="{{asset('theme/images/update-01-10-2021/slider/western-chinese-business-hong-kong.jpg')}}" alt="">
                 </div><!-- /.about-ten__image -->
             </div><!-- /.col-lg-5 -->
             <div class="col-lg-7 d-flex">
@@ -311,94 +311,22 @@
             }
         }}'>
             <div class="swiper-wrapper">
+                <?php $Services = DB::table('services')->get(); ?>
+                @foreach ($Services as $Service)
                 <div class="swiper-slide">
                     <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/Recruitment.jpg')}}" alt="">
+                        <img src="{{asset('theme/images/update-01-10-2021/project/')}}/{{$Service->image}}" alt="">
                         <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
+                            <a class="project-eight__link" href="{{url('/')}}/services/{{$Service->slung}}"><i
                                     class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">Recruitment
+                            <h3 class="project-eight__title"><a href="{{url('/')}}/services/{{$Service->slung}}">{{$Service->title}}
                                     </a>
                             </h3><!-- /.project-eight__title -->
                         </div><!-- /.project-eight__content -->
                     </div><!-- /.project-eight__item -->
                 </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/Training.jpg')}}" alt="">
-                        <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
-                                    class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">Training & skills development
-                                    </a>
-                            </h3><!-- /.project-eight__title -->
-                        </div><!-- /.project-eight__content -->
-                    </div><!-- /.project-eight__item -->
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-3.jpg')}}" alt="">
-                        <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
-                                    class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">Benefits and remuneration
-                                    </a>
-                            </h3><!-- /.project-eight__title -->
-                        </div><!-- /.project-eight__content -->
-                    </div><!-- /.project-eight__item -->
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/audits.jpg')}}" alt="">
-                        <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
-                                    class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">Audits
-                                    </a>
-                            </h3><!-- /.project-eight__title -->
-                        </div><!-- /.project-eight__content -->
-                    </div><!-- /.project-eight__item -->
-                </div><!-- /.swiper-slide -->
-
-                <div class="swiper-slide">
-                    <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/labour.jpg')}}" alt="">
-                        <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
-                                    class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">Labour and employee relations
-                                    </a>
-                            </h3><!-- /.project-eight__title -->
-                        </div><!-- /.project-eight__content -->
-                    </div><!-- /.project-eight__item -->
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/project-1-2.jpg')}}" alt="">
-                        <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
-                                    class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">Regulatory Compliance
-                                    </a>
-                            </h3><!-- /.project-eight__title -->
-                        </div><!-- /.project-eight__content -->
-                    </div><!-- /.project-eight__item -->
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="project-eight__item">
-                        <img src="{{asset('theme/images/update-01-10-2021/project/Hr.jpg')}}" alt="">
-                        <div class="project-eight__content">
-                            <a class="project-eight__link" href="#"><i
-                                    class="flaticon-right-arrow"></i></a>
-                            <h3 class="project-eight__title"><a href="#">HR Documents
-                                    </a>
-                            </h3><!-- /.project-eight__title -->
-                        </div><!-- /.project-eight__content -->
-                    </div><!-- /.project-eight__item -->
-                </div><!-- /.swiper-slide -->
-
-
-            </div>
+                @endforeach
+              </div>
         </div>
     </div><!-- /.auto-container -->
 </section><!-- /.project-seven -->
@@ -438,6 +366,76 @@
             "1199": {
                 "spaceBetween": 100,
                 "slidesPerView": 5
+            }
+        }}'>
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <img src="{{asset('theme/images/update-01-10-2021/sponsor/sponsor-2-1.png')}}" alt="">
+                </div><!-- /.swiper-slide -->
+            </div>
+        </div>
+    </div><!-- /.auto-container -->
+</section><!-- /.sponsor-eight -->
+<hr>
+<section class="sponsor-eight">
+    <div class="auto-container">
+        <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 1000 }, "breakpoints": {
+            "0": {
+                "spaceBetween": 30,
+                "slidesPerView": 2
+            },
+            "375": {
+                "spaceBetween": 30,
+                "slidesPerView": 2
+            },
+            "575": {
+                "spaceBetween": 30,
+                "slidesPerView": 2
+            },
+            "767": {
+                "spaceBetween": 50,
+                "slidesPerView": 2
+            },
+            "991": {
+                "spaceBetween": 50,
+                "slidesPerView": 3
+            },
+            "1199": {
+                "spaceBetween": 100,
+                "slidesPerView": 3
             }
         }}'>
             <div class="swiper-wrapper">

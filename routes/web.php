@@ -24,6 +24,7 @@ Route::get('/our-sectors', [HomeController::class, 'our_sectors'])->name('our-se
 Route::get('/contact-us', [HomeController::class, 'contact_us'])->name('contact-us');
 Route::get('/the-company', [HomeController::class, 'company'])->name('company');
 Route::get('/services', [HomeController::class, 'services'])->name('services');
+Route::get('/services/{slung}', [HomeController::class, 'service'])->name('service');
 Route::get('/terms-and-conditions', [HomeController::class, 'terms_and_conditions'])->name('terms-and-conditions');
 Route::get('/privacy-policy', [HomeController::class, 'privacy_policy'])->name('privacy-policy');
 Route::get('/copyright', [HomeController::class, 'copyright'])->name('copyright');

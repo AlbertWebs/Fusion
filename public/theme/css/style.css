@@ -24000,7 +24000,7 @@ img.lazy-image.loaded {
 
 .swiper-slide{
     border-radius:10px;
-    max-height:450px !important;
+    /* max-height:450px !important; */
 }
 .project-eight__item img{
     border-radius:10px;
@@ -24010,3 +24010,6 @@ img.lazy-image.loaded {
 .project-eight__content{
     border-radius:10px;
 }
+.fluid-section h3 {
+    font-size: 42px;
+  }

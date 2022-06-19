@@ -155,13 +155,10 @@
                                     </li>
                                     <li class="dropdown"><a href="{{url('/')}}/our-services">Services</a>
                                         <ul>
-                                            <li><a href="{{url('/')}}/services/slung">Recruitment </a></li>
-                                            <li><a href="{{url('/')}}/services/slung">Training & skills development </a></li>
-                                            <li><a href="{{url('/')}}/services/slung">Benefits and remuneration </a></li>
-                                            <li><a href="{{url('/')}}/services/slung">Audits </a></li>
-                                            <li><a href="{{url('/')}}/services/slung">Labour and employee relations </a></li>
-                                            <li><a href="{{url('/')}}/services/slung">Regulatory Compliance </a></li>
-                                            <li><a href="{{url('/')}}/services/slung">H.R documents </a></li>
+                                            <?php $Services = DB::table('services')->get(); ?>
+                                            @foreach ($Services as $Service)
+                                            <li><a href="{{url('/')}}/services/{{$Service->slung}}">{{$Service->title}} </a></li>
+                                            @endforeach
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="{{url('/')}}/our-sectors">Our Sectors</a>
