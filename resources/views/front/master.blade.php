@@ -151,7 +151,7 @@
                                         <a href="{{url('/')}}/about-us">About Us</a>
 
                                     </li>
-                                    <li class="dropdown"><a href="{{url('/')}}/our-services">Services</a>
+                                    <li class="dropdown"><a href="#">Services</a>
                                         <ul>
                                             <?php $Services = DB::table('services')->get(); ?>
                                             @foreach ($Services as $Service)
