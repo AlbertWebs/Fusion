@@ -27,7 +27,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Civil/Architecture
                                 </a>
@@ -45,12 +45,12 @@
                         <div class="service-eight__icon">
                             <i class="flaticon-vector-4"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="digital-marketing.html">Electrical</a>
                         </h3><!-- /.service-eight__title -->
@@ -63,12 +63,12 @@
                         <div class="service-eight__icon">
                             <i class="flaticon-business"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Mechanical</a>
                         </h3><!-- /.service-eight__title -->
@@ -83,12 +83,12 @@
                         <div class="service-eight__icon">
                             <i class="flaticon-global"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Security</a>
                         </h3><!-- /.service-eight__title -->
@@ -100,12 +100,12 @@
                         <div class="service-eight__icon">
                             <i class="flaticon-global"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Welding</a>
                         </h3><!-- /.service-eight__title -->
@@ -120,12 +120,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-wrench"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Heavy Equipments</a>
                         </h3><!-- /.service-eight__title -->
@@ -140,12 +140,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-cog"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Administration</a>
                         </h3><!-- /.service-eight__title -->
@@ -163,12 +163,12 @@
                             <i class="fas fa-user"></i>
                         </div><!-- /.service-eight__icon -->
 
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Hotel & Hospitality</a>
                         </h3><!-- /.service-eight__title -->
@@ -183,13 +183,13 @@
                         <div class="service-eight__icon">
                             <i class="fa fa-bed"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
 
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Cleaning & Housekeeping</a>
                         </h3><!-- /.service-eight__title -->
@@ -202,12 +202,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-broom"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Agriculture & Plantation</a>
                         </h3><!-- /.service-eight__title -->
@@ -221,12 +221,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-leaf"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Denting & Painting</a>
                         </h3><!-- /.service-eight__title -->
@@ -238,12 +238,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-brush"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Supermarkets and Hypermarkets</a>
                         </h3><!-- /.service-eight__title -->
@@ -259,14 +259,14 @@
                         <div class="service-eight__icon">
                             <i class="fa fa-shopping-cart"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
 
             {{--  --}}
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Power Gas and Water</a>
                         </h3><!-- /.service-eight__title -->
@@ -281,12 +281,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-water"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="300ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Medical Paramedical</a>
                         </h3><!-- /.service-eight__title -->
@@ -299,12 +299,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-medkit"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Manufacturing & Production</a>
                         </h3><!-- /.service-eight__title -->
@@ -317,12 +317,12 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-industry"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             <div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="900ms">
                 <div class="service-eight__card">
-                    <div class="service-eight__card__inner">
+                    <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
                             <a href="#">Garments & Textiles</a>
                         </h3><!-- /.service-eight__title -->
@@ -337,7 +337,7 @@
                         <div class="service-eight__icon">
                             <i class="fas fa-tshirt"></i>
                         </div><!-- /.service-eight__icon -->
-                    </div><!-- /.service-eight__card__inner -->
+                    </div><!-- /.service-eight__card__inner min-height-400 -->
                 </div><!-- /.service-eight__card -->
             </div><!-- /.col-md-6 col-lg-6 -->
             {{--  --}}
