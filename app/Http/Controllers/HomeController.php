@@ -8,24 +8,29 @@ use DB;
 class HomeController extends Controller
 {
     public function index(){
-        return view('front.index');
+        $title = "Home";
+        return view('front.index', compact('title'));
     }
 
     public function contact_us(){
-        return view('front.contact');
+        $title = "Contact Us";
+        return view('front.contact', compact('title'));
     }
 
     public function about_us(){
-        return view('front.about-us');
+        $title = "About Us";
+        return view('front.about-us', compact('title'));
     }
 
     public function our_sectors(){
-        return view('front.our-sectors');
+        $title = "Sectors";
+        return view('front.our-sectors', compact('title'));
     }
 
     public function service($slung){
         $Services = DB::table('services')->where('slung',$slung)->get();
-        return view('front.service', compact('Services'));
+        $title = "Services";
+        return view('front.service', compact('Services','title'));
     }
 
 

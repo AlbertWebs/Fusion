@@ -147,11 +147,11 @@
 							<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
 
-                                    <li class="dropdown">
+                                    <li @if($title == "About Us") class="current" @endif>
                                         <a href="{{url('/')}}/about-us">About Us</a>
 
                                     </li>
-                                    <li class="dropdown"><a href="#">Services</a>
+                                    <li @if($title == "Services") class="current" @endif class="dropdown"><a href="#">Services</a>
                                         <ul>
                                             <?php $Services = DB::table('services')->get(); ?>
                                             @foreach ($Services as $Service)
@@ -159,16 +159,16 @@
                                             @endforeach
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="{{url('/')}}/our-sectors">Our Sectors</a>
+                                    <li @if($title == "Sectors") class="current" @endif><a href="{{url('/')}}/our-sectors">Our Sectors</a>
 
                                     </li>
 
 
-                                    <li class="dropdown">
+                                    <li @if($title == "Contact Us") class="current" @endif>
                                         <a href="{{url('/')}}/contact-us">Contact</a>
 
                                     </li>
-                                    <li class="dropdown">
+                                    <li>
                                         <a download href="{{url('/')}}/uploads/profile/Fusion-Company-Profile.pdf"><span class="fa fa-download"></span> &nbsp; Company Profile</a>
                                     </li>
                                 </ul>

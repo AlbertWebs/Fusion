@@ -73,20 +73,15 @@
 <section class="contact-info-two">
     <div class="auto-container">
         <div class="row">
-            <div class="col-md-12 col-lg-4">
-                <div class="contact-info-two__card wow fadeInUp" data-wow-duration="1500ms">
-                    <i class="fa fa-map-marker-alt"></i>
-                    <a href="#">AmBank House,15th Floor-University Way</a>
-                </div><!-- /.contact-info-two__card -->
-            </div><!-- /.col-md-12 col-lg-4 -->
-            <div class="col-md-12 col-lg-4">
+
+            <div class="col-md-12 col-lg-6">
                 <div class="contact-info-two__card wow fadeInUp" data-wow-duration="1500ms"
                     data-wow-delay="300ms">
                     <i class="fa fa-envelope"></i>
                     <a href="mailto:info@fusionhrsolution.com">info@fusionhrsolution.com</a>
                 </div><!-- /.contact-info-two__card -->
             </div><!-- /.col-md-12 col-lg-4 -->
-            <div class="col-md-12 col-lg-4">
+            <div class="col-md-12 col-lg-6">
                 <div class="contact-info-two__card wow fadeInUp" data-wow-delay="600ms"
                     data-wow-duration="1500ms">
                     <i class="fa fa-phone"></i>
