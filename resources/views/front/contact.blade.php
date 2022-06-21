@@ -85,7 +85,7 @@
                 <div class="contact-info-two__card wow fadeInUp" data-wow-delay="600ms"
                     data-wow-duration="1500ms">
                     <i class="fa fa-phone"></i>
-                    <a href="tel:+254111027711">+254 (011)- 102- 7711</a>
+                    <a href="tel:+254111027711">+254111027711 | +254111027722 | +254111027733</a>
                     <br>
                 </div><!-- /.contact-info-two__card -->
             </div><!-- /.col-md-12 col-lg-4 -->
