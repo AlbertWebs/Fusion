@@ -41,7 +41,7 @@
             <div class="col-lg-6">
                 <div class="about-eleven__images wow fadeInLeft" data-wow-duration="1500ms">
                     <img src="{{asset('theme/images/update-01-10-2021/resources/featured-image-15.jpg')}}" alt="">
-                    <img src="{{asset('theme/images/update-01-10-2021/resources/featured-image-17.jpg')}}" alt="">
+                    {{-- <img src="{{asset('theme/images/update-01-10-2021/resources/featured-image-17.jpg')}}" alt=""> --}}
                 </div><!-- /.about-eleven__images -->
             </div><!-- /.col-lg-6 -->
 
