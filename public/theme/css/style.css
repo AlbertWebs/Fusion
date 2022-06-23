@@ -23993,8 +23993,8 @@ img.lazy-image.loaded {
 
 .about-ten__box__text{
     color:#000000;
-    display: list-item;          /* This has to be "list-item"                                               */
-    list-style-type: square;     /* See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
+    /* display: list-item;          This has to be "list-item"                                               */
+    /* list-style-type: square;     See https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type     */
     list-style-position: inside;
 }
 

@@ -21,6 +21,7 @@
                             <!-- /.thm-btn__eight -->
                             <a href="#" class="slider-eight__btn slider-eight__btn--two thm-btn__eight">Find Your Dream Job</a>
                             <!-- /.thm-btn__eight -->
+                            &nbsp; &nbsp;  <a download href="{{url('/')}}/uploads/profile/Fusion-Company-Profile.pdf" class="slider-eight__btn thm-btn__eight"><span class="fa fa-download"></span> &nbsp; Download Profile</a>
                         </div><!-- /.slider-eight__btns -->
 
                     </div><!-- /.slider-eight__content -->

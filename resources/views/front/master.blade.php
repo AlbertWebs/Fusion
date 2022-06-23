@@ -147,6 +147,11 @@
 							<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
 
+                                    <li @if($title == "Home") class="current" @endif>
+                                        <a href="{{url('/')}}">Home</a>
+
+                                    </li>
+
                                     <li @if($title == "About Us") class="current" @endif>
                                         <a href="{{url('/')}}/about-us">About Us</a>
 
@@ -168,9 +173,9 @@
                                         <a href="{{url('/')}}/contact-us">Contact</a>
 
                                     </li>
-                                    <li>
+                                    {{-- <li>
                                         <a download href="{{url('/')}}/uploads/profile/Fusion-Company-Profile.pdf"><span class="fa fa-download"></span> &nbsp; Company Profile</a>
-                                    </li>
+                                    </li> --}}
                                 </ul>
 							</div>
 						</nav>
