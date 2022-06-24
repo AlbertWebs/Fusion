@@ -244,7 +244,7 @@
         <div class="row">
             <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="about-ten__image">
-                    <img src="{{asset('theme/images/update-01-10-2021/slider/western-chinese-business-hong-kong.jpg')}}" alt="">
+                    <img style="max-height:800px" src="{{asset('uploads/pexels-gustavo-fring-4173217.jpg')}}" alt="">
                 </div><!-- /.about-ten__image -->
             </div><!-- /.col-lg-5 -->
             <div class="col-lg-7 d-flex">
