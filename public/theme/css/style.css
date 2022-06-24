@@ -22906,7 +22906,7 @@ img.lazy-image.loaded {
 }
 
 .mainmenu-eight__call:hover {
-  color: var(--thm-black);
+  color: var(--thm-base);
 }
 
 @media (min-width: 1350px) {
