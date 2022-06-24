@@ -77,8 +77,8 @@
 				</nav>
 				<div class="side-menu__sep"></div><!-- /.side-menu__sep -->
 				<div class="side-menu__content">
-					<p>fusionhrsolution is a premium Template for Digital Agencies, Start Ups, Small Business and a wide range of
-						other agencies.</p>
+					{{-- <p>fusionhrsolution is a premium Template for Digital Agencies, Start Ups, Small Business and a wide range of
+						other agencies.</p> --}}
 					<p><a href="mailto:info@fusionhrsolution.com">info@fusionhrsolution.com</a> <br> <a href="tel:+254111027711">+254 (011)- 102- 7711</a></p>
 					<div class="side-menu__social">
 						<a href="#"><i class="fab fa-facebook-square"></i></a>
