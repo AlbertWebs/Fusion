@@ -28,7 +28,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="testimonials-six__item">
-                        <p class="testimonials-six__content">
+                        <p class="testimonials-six__content" style="text-align:justify">
                             Fusion HR Solutions is a human resources management practice that provides a comprehensive range of
                             human resources solutions with a business focus. Fusion HR Solutions is the nucleus of a multidisciplinary
                             team of human resources specialists. Fusion HR Solutions is a dynamic organization that excels in consulting
