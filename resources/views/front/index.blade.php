@@ -17,11 +17,11 @@
                         <h2 class="slider-eight__title">Fusing People Recruitment</h2>
                         <!-- /.slider-eight__title -->
                         <div class="slider-eight__btns">
-                            <a href="#" class="slider-eight__btn thm-btn__eight">Recruit Now</a>
+                            <a href="{{url('/')}}/contact-us" class="slider-eight__btn thm-btn__eight download-btn">Recruit Now</a>
                             <!-- /.thm-btn__eight -->
-                            <a href="#" class="slider-eight__btn slider-eight__btn--two thm-btn__eight">Find Your Dream Job</a>
+                            <a href="{{url('/')}}/find-your-dream-job" class="slider-eight__btn slider-eight__btn--two thm-btn__eight download-btn">Find Your Dream Job</a>
                             <!-- /.thm-btn__eight -->
-                            &nbsp; &nbsp;  <a download href="{{url('/')}}/uploads/profile/Fusion-Company-Profile.pdf" class="slider-eight__btn thm-btn__eight"><span class="fa fa-download"></span> &nbsp; Download Profile</a>
+                            &nbsp; &nbsp;  <a download href="{{url('/')}}/uploads/profile/Fusion-Company-Profile.pdf" class="slider-eight__btn thm-btn__eight download-btn"><span class="fa fa-download"></span> &nbsp; Download Profile</a>
                         </div><!-- /.slider-eight__btns -->
 
                     </div><!-- /.slider-eight__content -->
@@ -49,13 +49,13 @@
             <div class="col-lg-6">
                 <div class="about-eleven__content">
                     <div class="sec-title-eight text-start">
-                        <p class="sec-title-eight__text">Fusion HR Solutions Limited</p>
+                        {{-- <p class="sec-title-eight__text">Fusion HR Solutions Limited</p> --}}
                         <!-- /.sec-title-eight__text -->
                         <h2 class="sec-title-eight__title">We Ensure Only Quality
                             Consulting Services
                             for our Clients</h2><!-- /.sec-title-eight__title -->
                     </div><!-- /.sec-title-eight -->
-                    <p class="about-eleven__summery" style="color:#000000">Fusion HR Solutions is a human resources management practice that provides a comprehensive range of human resources solutions with a business focus. Fusion HR Solutions is the nucleus of a multidisciplinary team of human resources specialists. Fusion HR Solutions is a dynamic organization that excels in consulting and training and we are accomplished in delivering results.</p><!-- /.about-eleven__summery -->
+                    <p class="about-eleven__summery" style="color:#000000; text-align: justify;">Fusion HR Solutions is a human resources management practice that provides a comprehensive range of human resources solutions with a business focus. Fusion HR Solutions is the nucleus of a multidisciplinary team of human resources specialists. Fusion HR Solutions is a dynamic organization that excels in consulting and training and we are accomplished in delivering results.</p><!-- /.about-eleven__summery -->
                     <br><br>
                     <a class="theme-btn btn-style-two" href="{{url('/')}}/about-us">
                             <i class="btn-curve"></i>
@@ -252,10 +252,10 @@
 
                     <div class="about-ten__content">
                         <div class="sec-title-eight text-start">
-                            <p class="sec-title-eight__text" style="color:#dd2026">Why Choose Us</p><!-- /.sec-title-eight__text -->
-
+                            {{-- <p class="sec-title-eight__text" style="color:#dd2026">Why Choose Us</p><!-- /.sec-title-eight__text --> --}}
+                            <h2 class="sec-title-eight__title">Why Choose Us</h2>
                         </div><!-- /.sec-title-eight -->
-                        <p class="about-ten__text" style="color:#182e65; line-height:1.5rem">Here at Fusion HR Solutions we guarantee a full outsourcing service
+                        <p class="about-ten__text" style="color:#182e65; line-height:1.5rem; text-align: justify;">Here at Fusion HR Solutions we guarantee a full outsourcing service
                             for the entire recruitment process as well as partial sup- port in recruitment
                             and selection of candidates for employment</p><!-- /.about-ten__text -->
 
@@ -288,7 +288,7 @@
 <section class="project-eight service-eight">
     <div class="auto-container">
         <div class="sec-title-eight text-center">
-            <p class="sec-title-eight__text">Empowering for a better tomorrow</p><!-- /.sec-title-eight__text -->
+            {{-- <p class="sec-title-eight__text">Empowering for a better tomorrow</p><!-- /.sec-title-eight__text --> --}}
             <h2 class="sec-title-eight__title">Our Services</h2><!-- /.sec-title-eight__title -->
             <h5 class="theme-text" style="font-size:16px; max-width:500px; margin:0 auto;">Your most valuable resources are your employees. Fusion HR Solutions is your best choice in recruiting, training, and retaining your employees.
                 Fusion HR Solutions offers the following services detailed below at an friendly cost. We offer the following services <span class="dot">.</span></h5>

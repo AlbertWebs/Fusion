@@ -36,7 +36,7 @@
                     </div>
                     <div class="text-content">
 
-                        <p style="font-size:25px; color:#000000">{{$item->content}}</p>
+                        <p style="font-size:25px; color:#000000; text-align: justify;">{{$item->content}}</p>
 
 
                     </div>

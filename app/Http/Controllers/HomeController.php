@@ -34,5 +34,9 @@ class HomeController extends Controller
     }
 
 
+    public function find_your_dream_job(){
+        $title = "Find Job";
+        return view('front.find-job', compact('title'));
+    }
 
 }

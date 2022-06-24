@@ -58,8 +58,8 @@
 
                     <div class="about-ten__content">
                         <div class="sec-title-eight text-start">
-                            <p class="sec-title-eight__text" style="color:#dd2026">Why Choose Us</p><!-- /.sec-title-eight__text -->
-
+                            {{-- <p class="sec-title-eight__text" style="color:#dd2026">Why Choose Us</p><!-- /.sec-title-eight__text --> --}}
+                            <h2 class="sec-title-eight__title">Why Choose Us</h2>
                         </div><!-- /.sec-title-eight -->
                         <p class="about-ten__text" style="color:#182e65; line-height:1.8rem">Here at Fusion HR Solutions we guarantee a full outsourcing service
                             for the entire recruitment process as well as partial sup- port in recruitment

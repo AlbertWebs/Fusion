@@ -21049,6 +21049,8 @@ img.lazy-image.loaded {
   }
 }
 
+
+
 @media (min-width: 1200px) {
   .slider-seven__round__image {
     width: 700px;
@@ -24160,3 +24162,10 @@ img.lazy-image.loaded {
 .service-eight__card .min-height-400{
    min-height:400px;
 }
+
+@media (max-width: 768px) {
+    .download-btn {
+      display: none;
+    }
+  }
+
