@@ -41,10 +41,14 @@
                                 <input type="text" placeholder="Profession *">
                             </div><!-- /.col-md-12 -->
                             <div class="col-md-12">
-                                <input type="text" placeholder="Highest Level Of Education*">
+                                <input type="text" placeholder="Highest Level Of Education*" >
+
                             </div><!-- /.col-md-12 -->
                             <div class="col-md-12">
-                                <input type="file" placeholder="Confirm Password *">
+                                {{-- <label for="files">Upload CV Here</label>
+                                <input type="file" name="file"> --}}
+                                <label class="form-label" for="customFile">Upload CV Here</label>
+                                <input type="file" class="form-control" id="customFile" />
                             </div><!-- /.col-md-12 -->
                         </div><!-- /.row -->
                         <button type='submit' class="theme-btn btn-style-one">

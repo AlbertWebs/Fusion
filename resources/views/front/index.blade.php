@@ -151,7 +151,7 @@
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner">
                         <h3 class="service-eight__title">
-                            <a href="#">Hotel & Hospitality</a>
+                            <a href="#">Hospitality</a>
                         </h3><!-- /.service-eight__title -->
 
                     </div><!-- /.service-eight__card__inner -->
@@ -244,7 +244,7 @@
         <div class="row">
             <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="about-ten__image">
-                    <img style="max-height:800px" src="{{asset('uploads/pexels-gustavo-fring-4173217.jpg')}}" alt="">
+                    <img style="max-height:800px" src="{{asset('uploads/why.jpg')}}" alt="">
                 </div><!-- /.about-ten__image -->
             </div><!-- /.col-lg-5 -->
             <div class="col-lg-7 d-flex">
@@ -420,7 +420,7 @@
                     <div class="content-box">
                         <h3>Trust Fusion HR recruiters to find the perfect candidate. </h3>
                         <div class="link-box">
-                            <a class="theme-btn btn-style-one" href="{{url('/')}}/find-candidates">
+                            <a class="theme-btn btn-style-one" href="{{url('/')}}/find-your-dream-job">
                                 <i class="btn-curve"></i>
                                 <span class="btn-title">Discover More</span>
                             </a>
@@ -435,7 +435,7 @@
                     <div class="content-box">
                         <h3>We provide our customers with exceptional service</h3>
                         <div class="link-box">
-                            <a class="theme-btn btn-style-two" href="{{url('/')}}/our-services">
+                            <a class="theme-btn btn-style-two" href="{{url('/')}}/services/recruitment">
                                 <i class="btn-curve"></i>
                                 <span class="btn-title">Discover More</span>
                             </a>

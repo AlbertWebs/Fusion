@@ -170,7 +170,7 @@
                 <div class="service-eight__card">
                     <div class="service-eight__card__inner min-height-400">
                         <h3 class="service-eight__title">
-                            <a href="#">Hotel & Hospitality</a>
+                            <a href="#">Hospitality</a>
                         </h3><!-- /.service-eight__title -->
                         <div class="text">
                             <p class="about-ten__box__text sectors"> Western, Italian, Chinese food production</p>
