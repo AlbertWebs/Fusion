@@ -339,7 +339,7 @@
 
 
 
-
+{{--
 <section class="sponsor-eight">
     <div class="auto-container">
         <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
@@ -408,7 +408,8 @@
             </div>
         </div>
     </div><!-- /.auto-container -->
-</section><!-- /.sponsor-eight -->
+</section> --}}
+<!-- /.sponsor-eight -->
 
 <section class="fluid-section">
     <div class="outer-container">
