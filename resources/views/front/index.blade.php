@@ -244,7 +244,7 @@
         <div class="row">
             <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="about-ten__image">
-                    <img style="max-height:800px" src="{{asset('uploads/why.jpg')}}" alt="">
+                    <img style="max-height:800px" src="{{asset('uploads/why-choose-us.jpg')}}" alt="">
                 </div><!-- /.about-ten__image -->
             </div><!-- /.col-lg-5 -->
             <div class="col-lg-7 d-flex">
@@ -267,9 +267,9 @@
                                 sensitive and highly responsible/accountable positions</p>
                             <p class="about-ten__box__text">The quality of our work--indicative of this is the fact that most of our clients
                                 have utilized our services on more than one occasion</p>
-                            <p class="about-ten__box__text">Our team is skilled in the latest techniques to identify prospec- tive candidates
+                            {{-- <p class="about-ten__box__text">Our team is skilled in the latest techniques to identify prospec- tive candidates
                                 and, as a search progress, to assist in gathering background information
-                                on leading candidates</p>
+                                on leading candidates</p> --}}
 
                                     <br><br>
                                     <a class="theme-btn btn-style-two" href="{{url('/')}}/about-us">
