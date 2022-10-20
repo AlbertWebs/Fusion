@@ -30,3 +30,15 @@ Route::get('/services/{slung}', [HomeController::class, 'service'])->name('servi
 Route::get('/terms-and-conditions', [HomeController::class, 'terms_and_conditions'])->name('terms-and-conditions');
 Route::get('/privacy-policy', [HomeController::class, 'privacy_policy'])->name('privacy-policy');
 Route::get('/copyright', [HomeController::class, 'copyright'])->name('copyright');
+
+
+Route::get('/about-us', [HomeController::class, 'about_us'])->name('about-us');
+
+Route::get('/take-down', function() {
+    \Artisan::call('down');
+    echo "Done";
+});
+Route::get('/take-up', function() {
+    \Artisan::call('up');
+    echo "Done";
+});
